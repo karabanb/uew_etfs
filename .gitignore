@@ -1,9 +1,7 @@
-# Created by https://www.toptal.com/developers/gitignore/api/python,visualstudiocode,r,jupyternotebooks
-# Edit at https://www.toptal.com/developers/gitignore?templates=python,visualstudiocode,r,jupyternotebooks
+
 
 ### JupyterNotebooks ###
-# gitignore template for Jupyter Notebooks
-# website: http://jupyter.org/
+
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
