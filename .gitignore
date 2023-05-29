@@ -1,4 +1,6 @@
+### Ignored Folders and files
 
+conf/local/**
 
 ### JupyterNotebooks ###
 
